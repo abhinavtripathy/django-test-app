@@ -1,1 +1,1 @@
-# django-test-app
+# Django Polls App
